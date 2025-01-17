@@ -9,5 +9,15 @@ Projeto em Java para simular e gerenciar operações de cartão de crédito, uti
 
 🔄 Cálculo de gastos e saldo final: Implementação de coleções como ArrayList e o método sort de Collections.
 
-[Curso Java_ aplicando a Orientação a Objetos - Alura.pdf](https://github.com/user-attachments/files/18450448/Curso.Java_.aplicando.a.Orientacao.a.Objetos.-.Alura.pdf)
-[Curso Java_ trabalhando com listas e coleções de dados - Alura.pdf](https://github.com/user-attachments/files/18450449/Curso.Java_.trabalhando.com.listas.e.colecoes.de.dados.-.Alura.pdf)
+
+Projeto feito com o que aprendi nos cursos:
+
+- Orientação a Objetos
+- Trabalhando com Listas
+
+Estou gostando muito da Alura, e o próximo passo será Spring Boot! 🚀
+
+![Captura de Tela (10)](https://github.com/user-attachments/assets/867b38e3-4094-41ff-8aa5-9a0aaad89a71)
+
+![Captura de Tela (11)](https://github.com/user-attachments/assets/5baf71ed-59b7-4e4b-a787-bb5c699dbe99)
+
